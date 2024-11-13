@@ -13,15 +13,14 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    ls -R /home/vsts/work/1/s
-    cd /home/vsts/work/1/s/src/reactapp1.client/
+    cd src/reactapp1.client/
     npm install
     npm run build
   displayName: 'npm install and build'
 
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '/home/vsts/work/1/s/build'
+    PathtoPublish: 'build'
     ArtifactName: 'drop'
     publishLocation: 'Container'
 
