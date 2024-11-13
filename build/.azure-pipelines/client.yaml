@@ -13,6 +13,7 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
+    mkdir -p ~/.aspnet/https
     cd src/reactapp1.client/
     npm install
     npm run build
