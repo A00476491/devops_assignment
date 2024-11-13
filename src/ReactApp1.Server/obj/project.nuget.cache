@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "M2Qa2BXph2M=",
+  "success": true,
+  "projectFilePath": "E:\\courses\\software\\zure devops\\devops_MCDA\\MCDA_devops_assignment\\src\\ReactApp1.Server\\ReactApp1.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\microsoft.aspnetcore.spaproxy\\6.0.36\\microsoft.aspnetcore.spaproxy.6.0.36.nupkg.sha512",
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Pengyao Zhao\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

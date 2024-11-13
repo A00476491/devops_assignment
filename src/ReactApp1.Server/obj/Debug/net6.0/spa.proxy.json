@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "E:\\courses\\software\\zure devops\\devops_MCDA\\MCDA_devops_assignment\\src\\ReactApp1.Server\\..\\reactapp1.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

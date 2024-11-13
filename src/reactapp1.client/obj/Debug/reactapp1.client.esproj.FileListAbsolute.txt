@@ -1,0 +1,1 @@
+E:\courses\software\zure devops\devops_MCDA\MCDA_devops_assignment\src\reactapp1.client\obj\Debug\reactapp1.client.esproj.CoreCompileInputs.cache
